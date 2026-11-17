@@ -29,16 +29,17 @@ I work with modern technologies to create websites and applications that are bot
 
 ---
 
-### GitHub Stats
+#### GitHub Stats
 
 <div align="center">
 
-![isnowyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=isnowyy&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Racha de contribuciones](https://streak-stats.demolab.com/?user=isnowyy&theme=github-dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isnowyy&layout=compact&theme=default&hide_border=true)
+![Resumen del perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isnowyy&theme=github_dark)
+
+![Lenguajes principales](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=isnowyy&theme=github_dark)
 
 </div>
-
 ---
 
 ### Connect with me
