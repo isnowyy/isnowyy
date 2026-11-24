@@ -148,11 +148,11 @@ Entrenamiento del modelo e integración web.
 ### 04 · Experiencia profesional
 
 #### Desarrollador de Software Junior
-**Lean Solutions Group** · Contrato de aprendizaje
+**Lean Solutions Group** · Contrato de aprendizaje<br/>
 **Febrero 2026 – Presente**
 
 #### Fundador y Desarrollador Full Stack
-**Wayrex** · Bucaramanga, Santander
+**Wayrex** · Bucaramanga, Santander<br/>
 **Junio 2026 – Presente**
 
 - Desarrollo de la app móvil con **React Native (Expo)** y la web con **Next.js + TypeScript**.
@@ -161,7 +161,7 @@ Entrenamiento del modelo e integración web.
 - Preparación de publicación en App Store y Play Store con **EAS Build**, política de privacidad y términos (Ley 1581 de 2012).
 
 #### Desarrollador Freelance
-**Independiente**
+**Independiente**<br/>
 **Junio 2026 – Presente**
 
 - Desarrollo de aplicaciones web y móviles para clientes, de la idea a producción.
@@ -171,7 +171,7 @@ Entrenamiento del modelo e integración web.
 ### 05 · Formación
 
 #### Desarrollo de Software — Campuslands
-**2026 – Presente**
+**2026 – Presente**<br/>
 Formación intensiva en desarrollo de software full stack.
 
 #### Ingeniería Metalúrgica — Universidad Industrial de Santander (UIS)
@@ -208,9 +208,9 @@ Formación intensiva en desarrollo de software full stack.
 
 ### 08 · Contacto
 
-**Bucaramanga, Santander, Colombia**
-**LinkedIn:** [linkedin.com/in/nicolas-naranjo-0b8720257](https://www.linkedin.com/in/nicolas-naranjo-0b8720257)
-**Portafolio:** [mi-portafolio-kappa-seven.vercel.app](https://mi-portafolio-kappa-seven.vercel.app/)
+**Bucaramanga, Santander, Colombia**<br/>
+**LinkedIn:** [linkedin.com/in/nicolas-naranjo-0b8720257](https://www.linkedin.com/in/nicolas-naranjo-0b8720257)<br/>
+**Portafolio:** [mi-portafolio-kappa-seven.vercel.app](https://mi-portafolio-kappa-seven.vercel.app/)<br/>
 **GitHub:** [github.com/isnowyy](https://github.com/isnowyy)
 <!-- **Correo:** [TU_CORREO](mailto:TU_CORREO) -->
 
