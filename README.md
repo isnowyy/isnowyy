@@ -2,7 +2,7 @@
 
 # Nicolás David Naranjo Barrios
 
-**Desarrollador Full Stack / React Native Junior · Bucaramanga, Colombia**
+**Desarrollador junior / React Native Junior · Bucaramanga, Colombia**
 
 </div>
 
@@ -10,7 +10,7 @@
 
 ### Sobre mí
 
-Soy fundador de **Wayrex** (antes Viarex), una plataforma de servicios basada en geolocalización que conecta a las personas con negocios y proveedores cercanos. Me encargo del producto completo: app móvil, web, base de datos geoespacial, pagos y automatizaciones.
+Soy el programador principal de una plataforma de servicios basada en geolocalización que conecta a las personas con negocios y proveedores cercanos. Me encargo del producto completo: app móvil, web, base de datos geoespacial, pagos y automatizaciones.
 
 También trabajo como freelance desde junio de 2026 y estudio Desarrollo de software en Campuslands.
 
